@@ -1,0 +1,51 @@
+C:\Users\Sietse\Documents\Visual Studio 2010\Projects\TextAdventureCS\TextAdventureCS\bin\Debug\TextAdventureCS.exe
+C:\Users\Sietse\Documents\Visual Studio 2010\Projects\TextAdventureCS\TextAdventureCS\bin\Debug\TextAdventureCS.pdb
+C:\Users\Sietse\Documents\Visual Studio 2010\Projects\TextAdventureCS\TextAdventureCS\obj\x86\Debug\TextAdventureCS.exe
+C:\Users\Sietse\Documents\Visual Studio 2010\Projects\TextAdventureCS\TextAdventureCS\obj\x86\Debug\TextAdventureCS.pdb
+C:\Users\Sietse\Documents\Visual Studio 2010\Projects\TextAdventureCS\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\TextAdventureCS\obj\x86\Debug\TextAdventureCS.exe
+C:\Users\Workstation\Desktop\TextAdventureCS\obj\x86\Debug\TextAdventureCS.pdb
+C:\Users\Workstation\Desktop\TextAdventureCS\bin\Debug\TextAdventureCS.exe
+C:\Users\Workstation\Desktop\TextAdventureCS\bin\Debug\TextAdventureCS.pdb
+C:\Users\Workstation\Desktop\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csprojResolveAssemblyReference.cache
+C:\Users\Sietse\Documents\Visual Studio 2013\Projects\TextAdventureCS_aanpassingen_alex_michiel\obj\x86\Debug\TextAdventureCS.exe
+C:\Users\Sietse\Documents\Visual Studio 2013\Projects\TextAdventureCS_aanpassingen_alex_michiel\obj\x86\Debug\TextAdventureCS.pdb
+C:\Users\Sietse\Documents\Visual Studio 2013\Projects\TextAdventureCS_aanpassingen_alex_michiel\obj\x86\Debug\TextAdventureCS.csprojResolveAssemblyReference.cache
+C:\Users\Sietse\Documents\Visual Studio 2013\Projects\TextAdventureCS_aanpassingen_alex_michiel\bin\Debug\TextAdventureCS.exe
+C:\Users\Sietse\Documents\Visual Studio 2013\Projects\TextAdventureCS_aanpassingen_alex_michiel\bin\Debug\TextAdventureCS.pdb
+C:\Users\thijs\Desktop\TextAdventureCS\bin\Debug\TextAdventureCS.exe
+C:\Users\thijs\Desktop\TextAdventureCS\bin\Debug\TextAdventureCS.pdb
+C:\Users\thijs\Desktop\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csprojResolveAssemblyReference.cache
+C:\Users\thijs\Desktop\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csproj.CoreCompileInputs.cache
+C:\Users\thijs\Desktop\TextAdventureCS\obj\x86\Debug\TextAdventureCS.exe
+C:\Users\thijs\Desktop\TextAdventureCS\obj\x86\Debug\TextAdventureCS.pdb
+C:\Users\Geert\Desktop\TextAdventureCS\TextAdventureCS\bin\Debug\TextAdventureCS.exe
+C:\Users\Geert\Desktop\TextAdventureCS\TextAdventureCS\bin\Debug\TextAdventureCS.pdb
+C:\Users\Geert\Desktop\TextAdventureCS\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csprojResolveAssemblyReference.cache
+C:\Users\Geert\Desktop\TextAdventureCS\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csproj.CoreCompileInputs.cache
+C:\Users\Geert\Desktop\TextAdventureCS\TextAdventureCS\obj\x86\Debug\TextAdventureCS.exe
+C:\Users\Geert\Desktop\TextAdventureCS\TextAdventureCS\obj\x86\Debug\TextAdventureCS.pdb
+C:\Users\Geert\Desktop\Text_Adventure_Game_merged\TextAdventureCS\bin\Debug\TextAdventureCS.exe
+C:\Users\Geert\Desktop\Text_Adventure_Game_merged\TextAdventureCS\bin\Debug\TextAdventureCS.pdb
+C:\Users\Geert\Desktop\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csprojResolveAssemblyReference.cache
+C:\Users\Geert\Desktop\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csproj.CoreCompileInputs.cache
+C:\Users\Geert\Desktop\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.exe
+C:\Users\Geert\Desktop\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.pdb
+C:\Users\thijs\Desktop\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\bin\Debug\TextAdventureCS.exe
+C:\Users\thijs\Desktop\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\bin\Debug\TextAdventureCS.pdb
+C:\Users\thijs\Desktop\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csprojResolveAssemblyReference.cache
+C:\Users\thijs\Desktop\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csproj.CoreCompileInputs.cache
+C:\Users\thijs\Desktop\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.exe
+C:\Users\thijs\Desktop\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.pdb
+C:\Users\Laura\OneDrive\School Radius\Leerjaar1\P3\Gap week\game versie 4.0(final)\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\bin\Debug\TextAdventureCS.exe
+C:\Users\Laura\OneDrive\School Radius\Leerjaar1\P3\Gap week\game versie 4.0(final)\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\bin\Debug\TextAdventureCS.pdb
+C:\Users\Laura\OneDrive\School Radius\Leerjaar1\P3\Gap week\game versie 4.0(final)\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csprojResolveAssemblyReference.cache
+C:\Users\Laura\OneDrive\School Radius\Leerjaar1\P3\Gap week\game versie 4.0(final)\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csproj.CoreCompileInputs.cache
+C:\Users\Laura\OneDrive\School Radius\Leerjaar1\P3\Gap week\game versie 4.0(final)\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.exe
+C:\Users\Laura\OneDrive\School Radius\Leerjaar1\P3\Gap week\game versie 4.0(final)\Text_Adventure_Game_merged_updated\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.pdb
+C:\Users\gijss_000\Desktop\Text_Adventure_Game_merged\TextAdventureCS\bin\Debug\TextAdventureCS.exe
+C:\Users\gijss_000\Desktop\Text_Adventure_Game_merged\TextAdventureCS\bin\Debug\TextAdventureCS.pdb
+C:\Users\gijss_000\Desktop\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csprojResolveAssemblyReference.cache
+C:\Users\gijss_000\Desktop\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.csproj.CoreCompileInputs.cache
+C:\Users\gijss_000\Desktop\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.exe
+C:\Users\gijss_000\Desktop\Text_Adventure_Game_merged\TextAdventureCS\obj\x86\Debug\TextAdventureCS.pdb
